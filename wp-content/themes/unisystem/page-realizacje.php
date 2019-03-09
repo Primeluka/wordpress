@@ -14,7 +14,7 @@
 		<div class="container">
 			<div class="col-md">
 				<h6 class="mb-4">Kliknij na wybraną pozycję żeby zobaczyć szczegóły.</h6>
-				<ul class="list-group list group-flush">
+				<ul class="list-group">
 				<?php	
 					$currentPage = get_query_var('paged');
 
