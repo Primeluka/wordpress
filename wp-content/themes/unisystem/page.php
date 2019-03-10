@@ -2,7 +2,7 @@
 
 	<div class="jumbotron jumbotron-fluid">
 		<div class="container">
-			<h1 class="display-5 text-white">
+			<h1 class="display-5 text-white text-uppercase">
 				<strong><?php echo get_the_title(); ?></strong>
 			</h1>
 		</div>
