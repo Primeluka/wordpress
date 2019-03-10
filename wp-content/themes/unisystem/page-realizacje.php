@@ -10,8 +10,8 @@
 
 
 
-	<div class="row">
-		<div class="container">
+	<div class="container">
+		<div class="row">
 			<div class="col-md">
 				<h6 class="mb-4 text-muted">Kliknij na wybraną pozycję żeby zobaczyć szczegóły.</h6>
 				<ul class="list-group">
