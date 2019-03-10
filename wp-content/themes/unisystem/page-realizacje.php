@@ -13,13 +13,13 @@
 	<div class="row">
 		<div class="container">
 			<div class="col-md">
-				<h6 class="mb-4">Kliknij na wybraną pozycję żeby zobaczyć szczegóły.</h6>
+				<h6 class="mb-4 text-muted">Kliknij na wybraną pozycję żeby zobaczyć szczegóły.</h6>
 				<ul class="list-group">
 				<?php	
 					$currentPage = get_query_var('paged');
 
 					$the_query = new WP_Query( array( 
-							'cat' => 5,
+							'category_name' => 'realizacje',
 							'posts_per_page' => 10,
 							'paged' => $currentPage
 						));

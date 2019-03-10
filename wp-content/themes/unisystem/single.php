@@ -19,12 +19,7 @@
 						endwhile; 
 					endif; 
 				?>
-				<div class="mt-4 text-muted text-right">
-					<hr>
-						<i class="far fa-clock mx-2"></i> <?php echo get_the_date(); ?>
-						<i class="fas fa-user mx-2"></i></i> <?php echo get_the_author(); ?>
-					<hr>
-				</div>
+
 			</div>
 		</div>
 	</div>
