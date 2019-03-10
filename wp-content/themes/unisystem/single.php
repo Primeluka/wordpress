@@ -2,8 +2,8 @@
 
 	<div class="jumbotron jumbotron-fluid">
 		<div class="container">
-			<h1 class="display-5 text-white">
-				<strong>ZREALIZOWANE</strong> PROJEKTY
+			<h1 class="display-5 text-white text-uppercase">
+				<strong><div></div></strong>
 			</h1>
 		</div>
 	</div>

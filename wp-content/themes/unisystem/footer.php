@@ -23,26 +23,22 @@
 					<div class="mb-2">
 							Członek Zarządu:<br>
 							Damian Łaskarzewski<br>
-							Tel: +48 662 225 682
-					</div>
-					<div class="mb-2">
-							Członek Zarządu:<br>
-							Piotr Wojnar<br>
-							Tel: +48 604 533 340
+							tel: +48 662 225 682<br>
+							e-mail: <a href="mailto:d.laskarzewski@unisystem.info">d.laskarzewski@unisystem.info</a>
 					</div>
 				</p>
 			</div>
 			<div class="col-md">
-				<h5 class="text-uppercase">Email</h5>
-				<div>
-					Damian Łaskarzewski<br>
-					d.laskarzewski@unisystem.info
-				</div>
-				<div class="mt-2">
-					Piotr Wojnar<br>
-					p.wojnar@unisystem.info
-				</div>
-			</div>
+				<div class="pb-md-4"></div>
+				<p>
+					<div class="mb-2">
+							Członek Zarządu:<br>
+							Piotr Wojnar<br>
+							tel: +48 604 533 340<br>
+							e-mail: <a href="mailto:p.wojnar@unisystem.info">p.wojnar@unisystem.info</a>
+					</div>
+				</p>
+			</div>			
 			<div class="col-md">
 				<h5 class="text-uppercase">Media</h5>
 				<div class="icons">
