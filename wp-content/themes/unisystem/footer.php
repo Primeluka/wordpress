@@ -1,7 +1,7 @@
 <footer class="py-5">
 	<div class="container">
 		<div class="row">
-			<div class="col-md">
+			<div class="col-md-3">
 				<h5 class="text-uppercase">Adres</h5>
 				<p>
 					<div>
@@ -17,7 +17,7 @@
 					</div>
 				</p>
 			</div>
-			<div class="col-md">
+			<div class="col-md-4">
 				<h5 class="text-uppercase">Kontakt</h5>
 				<p>
 					<div class="mb-2">
@@ -28,7 +28,7 @@
 					</div>
 				</p>
 			</div>
-			<div class="col-md">
+			<div class="col-md-3">
 				<div class="pb-md-4"></div>
 				<p>
 					<div class="mb-2">
@@ -39,7 +39,7 @@
 					</div>
 				</p>
 			</div>			
-			<div class="col-md">
+			<div class="col-md-2">
 				<h5 class="text-uppercase">Media</h5>
 				<div class="icons">
 					<i class="fab fa-facebook-square mr-1"></i>
